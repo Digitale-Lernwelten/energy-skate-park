@@ -71,7 +71,7 @@ class EnergySkateParkScreenView extends ScreenView {
       barGraphOptions: null,
 
       // {boolean} - whether or not this ScreenView should have a bar graph
-      showBarGraph: true,
+      showBarGraph: false,
 
       // {boolean} - whether or not to show buttons that select premade tracks
       showTrackButtons: true,

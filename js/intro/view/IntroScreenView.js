@@ -18,14 +18,16 @@ class IntroScreenView extends EnergySkateParkTrackSetScreenView {
   constructor( model, tandem ) {
     super( model, tandem, {
       controlPanelOptions: {
-        showMassControls: true,
+        showMassControls: false,
         gravityControlsOptions: {
           includeGravityNumberControl: false,
-          includeGravitySlider: true
+          includeGravitySlider: false
         },
         visibilityControlsOptions: {
-          showStickToTrackCheckbox: true,
-          showSkaterPathCheckbox: true
+          showStickToTrackCheckbox: false,
+          showSkaterPathCheckbox: false,
+          showPieChartCheckbox: false,
+          showBarGraph: false
         }
       }
     } );

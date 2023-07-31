@@ -1,9 +1,9 @@
 {
   "energy-skate-park.title": {
-    "value": "Energy Skate Park"
+    "value": "Reibung im Skate Park"
   },
   "physicalControls.gravityControls.gravity": {
-    "value": "Gravity"
+    "value": "Gravitation"
   },
   "physicalControls.gravityControls.earth": {
     "value": "Earth"
@@ -12,7 +12,7 @@
     "value": "Jupiter"
   },
   "physicalControls.gravityControls.moon": {
-    "value": "Moon"
+    "value": "Mond"
   },
   "physicalControls.gravityControls.gravityMetersPerSecondSquaredPattern": {
     "value": "{{value}} m/s<sup>2</sup>"
@@ -21,82 +21,85 @@
     "value": "{{value}} N/kg"
   },
   "physicalControls.massControls.mass": {
-    "value": "Mass"
+    "value": "Masse"
   },
   "physicalControls.massControls.massKilogramsPattern": {
     "value": "{{value}} kg"
   },
   "physicalControls.friction": {
-    "value": "Friction"
+    "value": "Reibung"
   },
   "physicalControls.custom": {
     "value": "Custom"
   },
   "physicalControls.small": {
-    "value": "Small"
+    "value": "Klein"
   },
   "physicalControls.large": {
-    "value": "Large"
+    "value": "Groß"
+  },
+  "physicalControls.slow": {
+    "value": "Langsam"
   },
   "physicalControls.lots": {
-    "value": "Lots"
+    "value": "Viel"
   },
   "physicalControls.none": {
-    "value": "None"
+    "value": "keine"
   },
   "physicalControls.tiny": {
-    "value": "Tiny"
+    "value": "winzig"
   },
   "energies.thermal": {
-    "value": "Thermal"
+    "value": "Thermisch"
   },
   "energies.total": {
-    "value": "Total"
+    "value": "Gesamt"
   },
   "energies.kinetic": {
-    "value": "Kinetic"
+    "value": "Kinetisch"
   },
   "energies.potential": {
     "value": "Potential"
   },
   "energies.energy": {
-    "value": "Energy"
+    "value": "Energie"
   },
   "plots.barGraph.label": {
-    "value": "Bar Graph"
+    "value": "Balkendiagramm"
   },
   "plots.energyGraph.label": {
-    "value": "Energy Graph"
+    "value": "Energiediagramm"
   },
   "plots.pieChart.label": {
-    "value": "Pie Chart"
+    "value": "Kuchendiagramm"
   },
   "plots.timeSwitchLabel": {
-    "value": "Time"
+    "value": "Zeit"
   },
   "plots.positionSwitchLabel": {
     "value": "Position"
   },
   "plots.timeLabel": {
-    "value": "Time (s)"
+    "value": "Zeit (s)"
   },
   "plots.positionLabel": {
     "value": "Position (m)"
   },
   "plots.energyLabel": {
-    "value": "Energy (J)"
+    "value": "Energie (J)"
   },
   "visibilityControls.grid": {
-    "value": "Grid"
+    "value": "Gitter"
   },
   "visibilityControls.referenceHeight": {
-    "value": "Reference Height"
+    "value": "Bezugshöhe"
   },
   "visibilityControls.path": {
-    "value": "Path"
+    "value": "Pfad / Spur"
   },
   "visibilityControls.speed": {
-    "value": "Speed"
+    "value": "Geschwindigkeit"
   },
   "skaterControls.label": {
     "value": "Skater"
@@ -117,43 +120,43 @@
     "value": "Skater 5 ({{value}} kg)"
   },
   "skaterControls.dogMassPattern": {
-    "value": "Dog ({{value}} kg)"
+    "value": "Hund ({{value}} kg)"
   },
   "skaterControls.restartSkater": {
-    "value": "Restart Skater"
+    "value": "Skater zurücksetzen"
   },
   "trackControls.stickToTrack": {
-    "value": "Stick to Track"
+    "value": "auf Spur bleiben"
   },
   "screens.intro": {
     "value": "Intro"
   },
   "screens.graphs": {
-    "value": "Graphs"
+    "value": "Diagramme"
   },
   "screens.playground": {
-    "value": "Playground"
+    "value": "Spielwiese"
   },
   "screens.measure": {
-    "value": "Measure"
+    "value": "Messen"
   },
   "heightLabels.zeroM": {
     "value": "0 m"
   },
   "heightLabels.heightEqualsZero": {
-    "value": "Height = 0"
+    "value": "Höhe = 0"
   },
   "pathSensor.energyJoulesPattern": {
     "value": "{{value}} J"
   },
   "pathSensor.heightMetersPattern": {
-    "value": "Height = {{value}} m"
+    "value": "Höhe = {{value}} m"
   },
   "pathSensor.speedMetersPerSecondPattern": {
-    "value": "Speed = {{value}} m/s"
+    "value": "Geschwindigkeit = {{value}} m/s"
   },
   "speedometer.label": {
-    "value": "Speed"
+    "value": "Geschwindigkeit"
   },
   "speedometer.metersPerSecondPattern": {
     "value": "{{value}} m/s"
@@ -165,13 +168,13 @@
     "value": "United States of America"
   },
   "characterSet.africa": {
-    "value": "Africa"
+    "value": "Afrika"
   },
   "characterSet.africaModest": {
-    "value": "Africa (Modest)"
+    "value": "Afrika (Modest)"
   },
   "preferences.accelerationUnits": {
-    "value": "Acceleration Units"
+    "value": "Beschleunigungs Einheit"
   },
   "preferences.metersPerSecondSquared": {
     "value": "m/s<sup>2</sup>"
