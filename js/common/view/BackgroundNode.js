@@ -34,7 +34,7 @@ class BackgroundNode extends Node {
     this.addChild( this.sky );
 
     // @private - wait for bounds to fill in the grass
-    this.earth = new Rectangle( 0, 0, 0, 0, { fill: '#93774c' } );
+    this.earth = new Rectangle( 0, 0, 0, 0, { fill: '#77952E' } );
     this.addChild( this.earth );
 
     // @private {number}
@@ -73,7 +73,7 @@ class BackgroundNode extends Node {
     // Work around scenery horizontal line pattern problem, see https:// github.com/phetsims/scenery/issues/196
     this.cement.setRect( bounds.minX, cementY, bounds.width, cementWidth );
     this.sky.setRect( bounds.minX, bounds.minY, bounds.width, bounds.height );
-    this.sky.fill = new LinearGradient( 0, 0, 0, bounds.height / 2 ).addColorStop( 0, '#02ace4' ).addColorStop( 1, '#cfecfc' );
+    this.sky.fill = new LinearGradient( 0, 0, 0, bounds.height / 2 ).addColorStop( 0, '#1D89AF' ).addColorStop( 1, '#cfecfc' );
   }
 }
 

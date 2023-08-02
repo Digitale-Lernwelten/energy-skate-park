@@ -50,14 +50,14 @@ const EnergySkateParkConstants = {
 
   // consistent width for all checkboxesz
   CHECKBOX_WIDTH: 14.7,
-  CHECKBOX_LABEL_FONT: new PhetFont( { size: 14.7 } ),
+  CHECKBOX_LABEL_FONT: new PhetFont( { family: '"Montserrat", sans-serif', size: 14.7 } ),
 
-  CONTROL_LABEL_FONT: new PhetFont( { size: 14.7 } ),
+  CONTROL_LABEL_FONT: new PhetFont( { family: '"Montserrat", sans-serif', size: 14.7 } ),
 
   // font for labels of physical controls
-  CONTROL_TITLE_FONT: new PhetFont( { weight: 'bold', size: 14.7 } ),
+  CONTROL_TITLE_FONT: new PhetFont( { family: '"Montserrat", sans-serif', weight: 'bold', size: 14.7 } ),
   CONTROL_TICK_LABEL_OPTIONS: {
-    font: new PhetFont( 12.3 ),
+    font: new PhetFont( { family: '"Montserrat", sans-serif', size: 12.3 } ),
     maxWidth: 31 // selected by choosing the length of widest English string in ?stringTest=double
   },
 
